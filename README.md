@@ -5,9 +5,9 @@
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
     <script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
-    <link rel="stylesheet" href="AmericanMusic/musicTheme.css" />
-    <link rel="stylesheet" href="AmericanMusic/musicTheme.min.css" />
-    <link rel="stylesheet" href="AmericanMusic/jquery.mobile.icons.min.css" />
+    <link rel="stylesheet" href="mltrelstad/AmericanMusic/musicTheme.css" />
+    <link rel="stylesheet" href="mltrelstad/AmericanMusic/musicTheme.min.css" />
+    <link rel="stylesheet" href="mltrelstad/AmericanMusic/jquery.mobile.icons.min.css" />
     <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile.structure-1.4.5.min.css" />
 </head>
 <body>
