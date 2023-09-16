@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>American Music Home</title>
+[jQuery](https://jquery.com/)
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
     <script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
